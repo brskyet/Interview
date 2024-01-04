@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "interview/common/ООП.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "interview/common/ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "interview/common/ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "interview/common/ООП.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "9f576e7f56e4b66c",
   "lastOpenFiles": [
-    "interview/dotnet/Коллекции.md",
-    "interview/dotnet/Общее.md",
-    "interview/dotnet/Память.md",
-    "interview/dotnet/Multithreading.md",
-    "interview/dotnet/Senior interview.md",
-    "interview/common/SQL.md",
-    "interview/common/SOLID.md",
-    "interview/common/Monolith vs Microservices.md",
-    "interview/common/Code review.md",
-    "interview/common/Тестовые задания.md",
-    "interview/common/Структуры памяти.md",
-    "interview/common/Паттерны.md",
-    "interview/common/ООП.md",
     "interview/common/Алгоритмы.md",
+    "interview/common/ООП.md",
+    "interview/common/Паттерны.md",
+    "interview/common/Структуры памяти.md",
+    "interview/dotnet/Тестовые задания.md",
+    "interview/dotnet/Code review.md",
+    "interview/common/Monolith vs Microservices.md",
+    "interview/common/SQL.md",
+    "interview/common/SOLID и др. принципы.md",
+    "interview/common/Senior interview.md",
+    "interview/dotnet/Общее.md",
+    "interview/dotnet/EF Core.md",
+    "interview/dotnet/Память.md",
+    "README.md",
+    "interview/dotnet/Коллекции.md",
+    "interview/dotnet/Multithreading.md",
     "attachments/Pasted image 20231029231330.png",
     "attachments/Pasted image 20231029230756.png",
     "attachments/Pasted image 20231026191748.png",
